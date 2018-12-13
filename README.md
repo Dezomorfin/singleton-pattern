@@ -2,7 +2,7 @@
 
 Implementation through the inner class.
 
-What is the peculiarity of the inner class? It allows us, again, to implement 
+What is the peculiarity of the inner class? It allows us to implement 
 a lazy implementation due to the peculiarities of Java itself. 
 The fact is that internal classes are loaded only when we refer to them for the 
 first time - in contrast to the "external" classes, which are loaded immediately when the program starts.
