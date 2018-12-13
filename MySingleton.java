@@ -1,5 +1,3 @@
-package mypackage;
-
 public class MySingleton {
  
     private MySingleton() {
